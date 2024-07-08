@@ -1,4 +1,3 @@
-//const API_URL = "https://cdn.krknapi.com/";
 function $1aa97cf4c51c1bcb$export$854bf7e726926d04(record) {
     let modalID = "Modal_" + String(crypto.randomUUID());
     let content = `
@@ -147,7 +146,8 @@ function $ad091aed34136047$export$d3db32922728ba8d(file, seekTo = 0.0) {
 }
 
 
-const $0d11bf43a650f0b4$var$API_URL = "https://931bba76-1b26-4445-ad26-d2c9d201d0e2-00-lpy51ddmv2p2.janeway.replit.dev/";
+const $0d11bf43a650f0b4$var$API_URL = "https://cdn.krknapi.com/";
+//const API_URL = 'https://931bba76-1b26-4445-ad26-d2c9d201d0e2-00-lpy51ddmv2p2.janeway.replit.dev/'
 const $0d11bf43a650f0b4$var$API_PATH = "krakenFileJs/test1" //"test4";
 ;
 class $0d11bf43a650f0b4$export$df9d79df60a0d8e5 {

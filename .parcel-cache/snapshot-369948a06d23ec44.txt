@@ -1,7 +1,7 @@
-13610
-40/home/runner/krakenfile/dist/main.js.map1720459727950189145 0
+13624
+40/home/runner/krakenfile/dist/main.js.map1720461838620630092 0
 36/home/runner/krakenfile/src/index.js1720448728938316108 0
-52/home/runner/krakenfile/src/KrakenFile/KrakenFile.js1720451186056500665 0
+52/home/runner/krakenfile/src/KrakenFile/KrakenFile.js1720461811496650115 0
 62/home/runner/krakenfile/src/KrakenFile/helpers/videoHelpers.js1720449830377502451 0
 46/home/runner/krakenfile/src/KrakenFile/helpers1720449830397502437 1
 27/home/runner/krakenfile/src1720448728942316105 1
@@ -9,8 +9,12 @@
 35/home/runner/krakenfile/.config/npm1720448524314467330 1
 56/home/runner/krakenfile/KrakenDropzone/KrakenDropzone.js1720450455981040185 0
 38/home/runner/krakenfile/KrakenDropzone1720450455997040173 1
-39/home/runner/krakenfile/.upm/store.json1720453299518938830 0
-41/home/runner/krakenfile/package-lock.json1720448667138361779 0
+39/home/runner/krakenfile/.upm/store.json1720461814892647608 0
+41/home/runner/krakenfile/package-lock.json1720461814768647699 0
+97/home/runner/krakenfile/node_modules/lightningcss-linux-x64-musl/lightningcss.linux-x64-musl.node1720461813728648467 0
+74/home/runner/krakenfile/node_modules/lightningcss-linux-x64-musl/README.md1720461813580648576 0
+72/home/runner/krakenfile/node_modules/lightningcss-linux-x64-musl/LICENSE1720461813580648576 0
+64/home/runner/krakenfile/node_modules/lightningcss-linux-x64-musl1720461813580648576 1
 60/home/runner/krakenfile/node_modules/regjsparser/LICENSE.BSD1720448664414363792 0
 72/home/runner/krakenfile/node_modules/regjsparser/node_modules/.bin/jsesc1720448666662362131 0
 71/home/runner/krakenfile/node_modules/regjsparser/node_modules/jsesc/man1720448664902363431 1
@@ -498,7 +502,7 @@
 68/home/runner/krakenfile/node_modules/cosmiconfig/dist/loaders.js.map1720448665258363168 0
 78/home/runner/krakenfile/node_modules/cosmiconfig/dist/getPropertyByPath.js.map1720448665182363224 0
 80/home/runner/krakenfile/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts.map1720448665178363228 0
-38/home/runner/krakenfile/src/KrakenFile1720451186120500618 1
+38/home/runner/krakenfile/src/KrakenFile1720461811500650112 1
 73/home/runner/krakenfile/node_modules/cosmiconfig/dist/getDirectory.js.map1720448665170363234 0
 75/home/runner/krakenfile/node_modules/cosmiconfig/dist/getDirectory.d.ts.map1720448665162363240 0
 73/home/runner/krakenfile/node_modules/cosmiconfig/dist/ExplorerSync.js.map1720448665126363266 0
@@ -1143,7 +1147,6 @@
 64/home/runner/krakenfile/node_modules/create-jest/build/errors.js1720448664470363751 0
 67/home/runner/krakenfile/node_modules/create-jest/bin/create-jest.js1720448664302363874 0
 52/home/runner/krakenfile/node_modules/create-jest/bin1720448664270363899 1
-87/home/runner/krakenfile/node_modules/create-jest/node_modules/supports-color/browser.js1720448664302363874 0
 76/home/runner/krakenfile/node_modules/create-jest/node_modules/supports-color1720448664474363748 1
 80/home/runner/krakenfile/node_modules/create-jest/node_modules/chalk/package.json1720448664610363647 0
 87/home/runner/krakenfile/node_modules/create-jest/node_modules/chalk/source/templates.js1720448664470363751 0
@@ -1607,6 +1610,9 @@
 81/home/runner/krakenfile/node_modules/@msgpackr-extract/msgpackr-extract-linux-x641720448664770363529 1
 77/home/runner/krakenfile/node_modules/@lmdb/lmdb-linux-x64/node.napi.musl.node1720448665618362902 0
 67/home/runner/krakenfile/node_modules/@lmdb/lmdb-linux-x64/README.md1720448664358363834 0
+71/home/runner/krakenfile/node_modules/@swc/core-linux-x64-musl/README.md1720461813848648379 0
+74/home/runner/krakenfile/node_modules/@swc/core-linux-x64-musl/package.json1720461813848648379 0
+61/home/runner/krakenfile/node_modules/@swc/core-linux-x64-musl1720461813848648379 1
 54/home/runner/krakenfile/node_modules/@swc/core/util.js1720448665022363343 0
 59/home/runner/krakenfile/node_modules/@swc/core/package.json1720448664922363417 0
 57/home/runner/krakenfile/node_modules/@swc/core/binding.js1720448664706363576 0
@@ -1953,7 +1959,7 @@
 88/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_class_apply_descriptor_update.cjs1720448665014363349 0
 85/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_class_apply_descriptor_set.cjs1720448664994363364 0
 85/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_class_apply_descriptor_get.cjs1720448664982363372 0
-28/home/runner/krakenfile/dist1720459727950189145 1
+28/home/runner/krakenfile/dist1720461838620630092 1
 86/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_check_private_redeclaration.cjs1720448664922363417 0
 77/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_async_to_generator.cjs1720448664826363487 0
 67/home/runner/krakenfile/node_modules/@swc/helpers/esm/_using_ctx.js1720448665658362873 0
@@ -1965,7 +1971,7 @@
 53/home/runner/krakenfile/node_modules/@swc/helpers/cjs1720448665486363000 1
 83/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_class_private_field_init.cjs1720448665118363272 0
 57/home/runner/krakenfile/node_modules/@swc/helpers/LICENSE1720448664134363999 0
-41/home/runner/krakenfile/node_modules/@swc1720448666946361921 1
+41/home/runner/krakenfile/node_modules/@swc1720461814592647829 1
 75/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_array_with_holes.cjs1720448664582363668 0
 60/home/runner/krakenfile/node_modules/@lezer/common/README.md1720448664982363372 0
 64/home/runner/krakenfile/node_modules/@lezer/common/dist/index.js1720448664934363408 0
@@ -2000,6 +2006,12 @@
 59/home/runner/krakenfile/node_modules/to-regex-range/LICENSE1720448664370363825 0
 60/home/runner/krakenfile/node_modules/to-regex-range/index.js1720448664274363896 0
 64/home/runner/krakenfile/node_modules/to-regex-range/package.json1720448664202363949 0
+80/home/runner/krakenfile/node_modules/@parcel/watcher-linux-x64-musl/watcher.node1720461813644648529 0
+77/home/runner/krakenfile/node_modules/@parcel/watcher-linux-x64-musl/README.md1720461813620648547 0
+80/home/runner/krakenfile/node_modules/@parcel/watcher-linux-x64-musl/package.json1720461813620648547 0
+87/home/runner/krakenfile/node_modules/create-jest/node_modules/supports-color/browser.js1720448664302363874 0
+75/home/runner/krakenfile/node_modules/@parcel/watcher-linux-x64-musl/LICENSE1720461813616648550 0
+67/home/runner/krakenfile/node_modules/@parcel/watcher-linux-x64-musl1720461813620648547 1
 84/home/runner/krakenfile/node_modules/@parcel/resolver-default/src/DefaultResolver.js1720448664486363739 0
 65/home/runner/krakenfile/node_modules/@parcel/resolver-default/src1720448664418363789 1
 84/home/runner/krakenfile/node_modules/@parcel/resolver-default/lib/DefaultResolver.js1720448664362363831 0
@@ -5013,7 +5025,7 @@
 81/home/runner/krakenfile/node_modules/resolve/test/module_dir/zmodules/bbb/main.js1720448665558362947 0
 79/home/runner/krakenfile/node_modules/caniuse-lite/data/features/console-time.js1720448665582362929 0
 82/home/runner/krakenfile/node_modules/@babel/helpers/lib/helpers/nonIterableRest.js1720448665678362858 0
-23/home/runner/krakenfile1720459727942189151 1
+23/home/runner/krakenfile1720461831176635586 1
 80/home/runner/krakenfile/node_modules/caniuse-lite/data/features/border-radius.js1720448665498362991 0
 81/home/runner/krakenfile/node_modules/jest-diff/node_modules/color-convert/LICENSE1720448664610363647 0
 84/home/runner/krakenfile/node_modules/@parcel/core/test/fixtures/context/package.json1720448665766362793 0
@@ -5659,7 +5671,7 @@
 81/home/runner/krakenfile/node_modules/@babel/core/lib/config/files/module-types.js1720448665262363165 0
 48/home/runner/krakenfile/node_modules/graceful-fs1720448664534363703 1
 77/home/runner/krakenfile/node_modules/@babel/types/lib/comments/addComments.js1720448665490362997 0
-28/home/runner/krakenfile/.upm1720453299518938830 1
+28/home/runner/krakenfile/.upm1720461814892647608 1
 77/home/runner/krakenfile/node_modules/csso/lib/replace/property/font-weight.js1720448665526362971 0
 53/home/runner/krakenfile/node_modules/gensync/index.js1720448664498363730 0
 80/home/runner/krakenfile/node_modules/@babel/types/lib/comments/removeComments.js1720448665506362985 0
@@ -5825,7 +5837,7 @@
 88/home/runner/krakenfile/node_modules/jest-util/node_modules/color-convert/conversions.js1720448664474363748 0
 100/home/runner/krakenfile/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/package.json1720448665206363207 0
 90/home/runner/krakenfile/node_modules/jest-circus/node_modules/color-convert/conversions.js1720448664466363753 0
-55/home/runner/krakenfile/node_modules/.package-lock.json1720448667226361714 0
+55/home/runner/krakenfile/node_modules/.package-lock.json1720461814860647631 0
 68/home/runner/krakenfile/node_modules/caniuse-lite/data/regions/FJ.js1720448665790362775 0
 70/home/runner/krakenfile/node_modules/@babel/preset-env/data/plugins.js1720448664810363500 0
 82/home/runner/krakenfile/node_modules/supports-preserve-symlinks-flag/test/index.js1720448664678363597 0
@@ -6232,7 +6244,7 @@
 70/home/runner/krakenfile/node_modules/@parcel/fs/test/OverlayFS.test.js1720448665090363293 0
 108/home/runner/krakenfile/.cache/typescript/5.4/node_modules/@babel/highlight/node_modules/color-name/index.js1720448469366507938 0
 59/home/runner/krakenfile/node_modules/@types/yargs/README.md1720448664282363890 0
-36/home/runner/krakenfile/node_modules1720448666966361906 1
+36/home/runner/krakenfile/node_modules1720461814592647829 1
 69/home/runner/krakenfile/node_modules/resolve/test/resolver/mug.coffee1720448664922363417 0
 79/home/runner/krakenfile/node_modules/caniuse-lite/data/features/wasm-threads.js1720448665886362705 0
 88/home/runner/krakenfile/.cache/typescript/5.4/node_modules/@types/yargs-parser/README.md1720448469142508103 0
@@ -7481,6 +7493,7 @@
 77/home/runner/krakenfile/node_modules/babel-plugin-jest-hoist/build/index.d.ts1720448664618363641 0
 108/home/runner/krakenfile/node_modules/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/README.md1720448664282363890 0
 66/home/runner/krakenfile/node_modules/@babel/core/lib/gensync-utils1720448665558362947 1
+85/home/runner/krakenfile/node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node1720461814588647832 0
 79/home/runner/krakenfile/node_modules/caniuse-lite/data/features/cryptography.js1720448665594362920 0
 85/home/runner/krakenfile/node_modules/@swc/helpers/_/_array_without_holes/package.json1720448665678362858 0
 59/home/runner/krakenfile/node_modules/jest-haste-map/LICENSE1720448664182363963 0
@@ -8775,7 +8788,7 @@
 59/home/runner/krakenfile/node_modules/color-convert/route.js1720448664686363591 0
 81/home/runner/krakenfile/node_modules/@babel/helper-wrap-function/lib/index.js.map1720448664722363565 0
 69/home/runner/krakenfile/node_modules/@parcel/packager-js/src/index.js1720448665026363340 0
-54/home/runner/krakenfile/node_modules/@msgpackr-extract1720448666946361921 1
+54/home/runner/krakenfile/node_modules/@msgpackr-extract1720461814596647825 1
 59/home/runner/krakenfile/node_modules/lightningcss/README.md1720448665034363334 0
 68/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_ts_values.cjs1720448665470363012 0
 113/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/config/parser.js1720448665618362902 0
@@ -9601,7 +9614,7 @@
 53/home/runner/krakenfile/node_modules/@jest/source-map1720448664462363756 1
 82/home/runner/krakenfile/node_modules/@babel/plugin-transform-optional-chaining/lib1720448664622363638 1
 91/home/runner/krakenfile/node_modules/@babel/plugin-transform-optional-chaining/lib/index.js1720448664622363638 0
-36/home/runner/krakenfile/package.json1720448489450493095 0
+36/home/runner/krakenfile/package.json1720461831152635605 0
 78/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_to_consumable_array.cjs1720448665458363021 0
 85/home/runner/krakenfile/node_modules/css-tree/cjs/syntax/node/PseudoClassSelector.cjs1720448665582362929 0
 112/home/runner/krakenfile/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/property/background.js1720448665114363275 0
@@ -10508,7 +10521,7 @@
 76/home/runner/krakenfile/node_modules/@babel/preset-env/lib/targets-parser.js1720448665362363092 0
 99/home/runner/krakenfile/node_modules/@parcel/transformer-babel/node_modules/semver/functions/lte.js1720448665106363281 0
 105/home/runner/krakenfile/node_modules/@parcel/package-manager/node_modules/semver/ranges/max-satisfying.js1720448665162363240 0
-36/home/runner/krakenfile/dist/main.js1720459727946189148 0
+36/home/runner/krakenfile/dist/main.js1720461838616630094 0
 80/home/runner/krakenfile/node_modules/@babel/preset-env/lib/targets-parser.js.map1720448665362363092 0
 67/home/runner/krakenfile/node_modules/@babel/preset-env/package.json1720448665366363089 0
 92/home/runner/krakenfile/node_modules/csso/node_modules/css-tree/lib/syntax/node/Dimension.js1720448665702362840 0
@@ -10610,6 +10623,7 @@
 86/home/runner/krakenfile/node_modules/@babel/plugin-transform-sticky-regex/lib/index.js1720448664402363801 0
 89/home/runner/krakenfile/node_modules/jest-message-util/node_modules/has-flag/package.json1720448664194363955 0
 100/home/runner/krakenfile/node_modules/@parcel/workers/test/integration/workerfarm/shared-reference.js1720448665298363139 0
+77/home/runner/krakenfile/node_modules/lightningcss-linux-x64-musl/package.json1720461813580648576 0
 90/home/runner/krakenfile/node_modules/@babel/plugin-transform-sticky-regex/lib/index.js.map1720448664474363748 0
 89/home/runner/krakenfile/node_modules/jest-runtime/node_modules/color-convert/CHANGELOG.md1720448664298363878 0
 60/home/runner/krakenfile/node_modules/jest-docblock/README.md1720448664458363759 0
@@ -11499,7 +11513,7 @@
 85/home/runner/krakenfile/node_modules/@swc/helpers/cjs/_object_destructuring_empty.cjs1720448665402363062 0
 69/home/runner/krakenfile/node_modules/@parcel/utils/src/relativeUrl.js1720448665574362935 0
 58/home/runner/krakenfile/node_modules/@types/node/zlib.d.ts1720448665606362911 0
-33/home/runner/krakenfile/script.js1720453299386938928 0
+33/home/runner/krakenfile/script.js1720461195365104999 0
 87/home/runner/krakenfile/node_modules/resolve/test/resolver/multirepo/packages/package-b1720448665622362899 1
 55/home/runner/krakenfile/node_modules/@types/node/assert1720448665610362908 1
 83/home/runner/krakenfile/node_modules/csso/node_modules/css-tree/cjs/lexer/index.cjs1720448665498362991 0
@@ -11838,7 +11852,7 @@
 55/home/runner/krakenfile/node_modules/fill-range/LICENSE1720448664202363949 0
 57/home/runner/krakenfile/node_modules/fill-range/README.md1720448664486363739 0
 75/home/runner/krakenfile/node_modules/jest-validate/node_modules/ansi-styles1720448664466363753 1
-44/home/runner/krakenfile/node_modules/@parcel1720448666946361921 1
+44/home/runner/krakenfile/node_modules/@parcel1720461814592647829 1
 57/home/runner/krakenfile/node_modules/@parcel/reporter-cli1720448665186363221 1
 94/home/runner/krakenfile/node_modules/@parcel/reporter-cli/node_modules/color-name/package.json1720448664262363904 0
 75/home/runner/krakenfile/node_modules/argparse/lib/action/append/constant.js1720448664922363417 0
@@ -12088,7 +12102,7 @@
 99/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/tokenizer1720448665678362858 1
 108/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/tokenizer/const.js1720448665210363204 0
 108/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/tokenizer/utils.js1720448665678362858 0
-42/home/runner/krakenfile/node_modules/@lmdb1720448666946361921 1
+42/home/runner/krakenfile/node_modules/@lmdb1720461814596647825 1
 95/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1720448665606362911 1
 104/home/runner/krakenfile/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils/clone.js1720448665186363221 0
 113/home/runner/krakenfile/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/pseudo/common/nth.js1720448665610362908 0

@@ -1,5 +1,5 @@
-//const API_URL = "https://cdn.krknapi.com/";
-const API_URL = 'https://931bba76-1b26-4445-ad26-d2c9d201d0e2-00-lpy51ddmv2p2.janeway.replit.dev/'
+const API_URL = "https://cdn.krknapi.com/";
+//const API_URL = 'https://931bba76-1b26-4445-ad26-d2c9d201d0e2-00-lpy51ddmv2p2.janeway.replit.dev/'
 const API_PATH = "krakenFileJs/test1" //"test4";
 
 import {getHtmlThumbnailImage} from './htmlParts/htmlThumbnailImage.js'
